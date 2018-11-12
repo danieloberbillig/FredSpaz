@@ -1,2 +1,2 @@
 # FredSpaz
-Training API call from Foursquare
+Personal JavaScript training: API call from Foursquare
